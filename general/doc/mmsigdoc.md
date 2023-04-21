@@ -3,7 +3,7 @@
 
 给本 MMSIG 贡献者教程贡献的步骤如下：
 
-* Fork 仓库
+* Fork 仓库 (只需要 Fork 一次)
 * 编辑文档
 * 创建 PR (Pull Requests)
 * OpenMMLab 社区管理员 Merge PR
